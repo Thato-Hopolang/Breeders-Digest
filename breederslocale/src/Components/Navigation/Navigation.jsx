@@ -12,6 +12,7 @@ const Navigation = () => {
         <CustomLink to="/contact">Contact</CustomLink>
         <CustomLink to="/about">About</CustomLink>
       </ul>
+      
     </nav>
   )
 }
